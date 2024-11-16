@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/4</dataFim>
+        <periodo>21 de Março – 20 de Abril	</periodo>
+        <nomeSigno>Áries</nomeSigno>
+        <descricao>Áries (português brasileiro) ou Carneiro (português europeu) (♈) é o primeiro[3] signo astrológico do zodíaco, situado entre Peixes e Touro e associado à constelação de Aries. Seu símbolo é um carneiro. Forma com Leão e Sagitário[4] a triplicidade dos signos do Fogo. É também um dos quatro cardinais, juntamente com Câncer/Caranguejo, Libra/Balança e Capricórnio. Com pequenas variações nas datas dependendo do ano, os carneiros/arianos são as pessoas nascidas entre 21 de março e 20 de abril.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <periodo> 21 de Abril - 20 de Maio</periodo>
+        <nomeSigno>Touro</nomeSigno>
+        <descricao> Touro ou Tauros (♉) é o segundo signo astrológico do zodíaco, situado entre Áries e Gêmeos e associado à constelação de Taurus. Seu símbolo é um touro. Forma com Virgem e Capricórnio a triplicidade dos signos da Terra. É também um dos quatro signos fixos, juntamente com Leão, Escorpião e Aquário. Com pequenas variações nas datas dependendo do ano, os taurinos são as pessoas nascidas entre 21 de abril e 20 de maio.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <periodo> 21 de Maio - 20 de Junho	</periodo>
+        <nomeSigno> Gêmeos </nomeSigno>
+        <descricao> Gêmeos (português brasileiro) ou Gémeos (português europeu) (♊), ou ainda Gemini, é o terceiro signo astrológico do zodíaco, situado entre Touro e Câncer/Caranguejo e associado à constelação de Gemini. Seu símbolo são os irmãos gêmeos/gémeos. Forma com Libra/Balança e Aquário a triplicidade dos signos do Ar. É também um dos quatro signos mutáveis, juntamente com Virgem, Sagitário e Peixes. Com pequenas variações nas datas dependendo do ano, os geminianos e geminianas são as pessoas nascidas entre 21 de Maio[1] e 20 de Junho[1].
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <periodo> 21 de Junho - 22 de Julho	 </periodo>
+        <nomeSigno> Câncer </nomeSigno>
+        <descricao>Câncer (português brasileiro) ou Caranguejo (português europeu) (♋️) é o quarto[3] signo astrológico do zodíaco, situado entre Gêmeos/Gémeos e Leão e associado à constelação de Cancer. Seu símbolo é um caranguejo. Forma com Escorpião e Peixes[4] a triplicidade dos signos da Água. É também um dos quatro cardinais, juntamente com Áries/Carneiro, Libra/Balança e Capricórnio. Com pequenas variações nas datas dependendo do ano, os cancerianos são as pessoas nascidas entre 21 de Junho e 22 de Julho.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <periodo> 23 de Julho - 22 de Agosto </periodo>
+        <nomeSigno> Leão </nomeSigno>
+        <descricao>Leão ou Leo (♌) é o quinto[1] signo astrológico do zodíaco, situado entre Câncer/Caranguejo e Virgem e associado à constelação de Leo. Seu símbolo é um leão. Forma com Áries/Carneiro e Sagitário a triplicidade dos signos do Fogo. É também um dos quatro signos fixos, juntamente com Touro, Escorpião e Aquário. Com pequenas variações nas datas dependendo do ano, os leoninos e leoninas são as pessoas nascidas entre 22 de Julho e 22 de Agosto.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <periodo> 23 de Agosto - 22 de Setembro	</periodo>
+        <nomeSigno> Virgem </nomeSigno>
+        <descricao>Virgem ou Virgo (♍) é o sexto[1] signo astrológico do zodíaco, situado entre Leão[1] e Libra[1] e associado à constelação de Virgo. Seu símbolo é uma virgem. Forma com Touro[2] e Capricórnio[2] a triplicidade dos signos da Terra. É também um dos quatro signos mutáveis, juntamente com Gêmeos/Gémeos, Sagitário e Peixes. Com pequenas variações nas datas dependendo do ano, os virginianos e virginianas são as pessoas nascidas entre 23 de agosto e 22 de setembro.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <periodo> 23 de Setembro - 22 de Outubro	</periodo>
+        <nomeSigno> Libra </nomeSigno>
+        <descricao>Libra (português brasileiro) ou Balança (português europeu) (♎) é o sétimo signo astrológico do zodíaco, situado entre Virgem e Escorpião e associado à constelação de Libra. Seu símbolo é uma balança. Forma com Gêmeos/Gémeos e Aquário a triplicidade dos signos do Ar. É também um dos quatro signos cardinais, juntamente com Áries/Carneiro, Câncer/Caranguejo e Capricórnio. Com pequenas variações nas datas dependendo do ano, os librianos e librianas são as pessoas nascidas entre 23 de setembro e 22 de outubro.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <periodo> 23 de Outubro - 21 Novembro </periodo>
+        <nomeSigno> Escorpião </nomeSigno>
+        <descricao>Escorpião (♏) é o oitavo signo astrológico do Zodíaco, originário da constelação de Scorpius. Ele mede 210 ° –240 ° de longitude eclíptica. Sob o zodíaco tropical (mais usado na astrologia ocidental), o Sol transita em média entre 23 de outubro e 22 de novembro.[1] Sob o zodíaco sideral (mais comumente usado na astrologia hindu), o Sol está em Escorpião de aproximadamente 16 de novembro a 15 de dezembro.[2] Dependendo do sistema zodíaco usado, um indivíduo nascido sob a influência deste signo pode ser chamado de "escorpião" ou "escorpiano".[3]
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <periodo> 22 de Novembro - 21 de Dezembro	</periodo>
+        <nomeSigno> Sagitátio </nomeSigno>
+        <descricao>Sagitário (♐) é o nono[1] signo astrológico do zodíaco, situado entre Escorpião[1] e Capricórnio[1] e associado à constelação de Sagittarius. Seu símbolo é o centauro. Forma com Áries[2] e Leão[2] a triplicidade dos signos do Fogo. É também um dos quatro signos mutáveis, juntamente com Gêmeos, Virgem e Peixes. Com pequenas variações nas datas dependendo do ano, os sagitarianos e sagitarianas são as pessoas nascidas entre 22 de novembro e 21 de dezembro.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>19/01</dataFim>
+        <periodo> 22 de Dezembro - 19 de Janeiro </periodo>
+        <nomeSigno>Capricórnio</nomeSigno>
+        <descricao>Capricórnio (♑) é o décimo[1] signo astrológico do zodíaco, situado entre Sagitário[1] e Aquário[1] e associado à constelação de Capricornus. Seu símbolo é uma cabra. Forma com Touro[2] e Virgem[2] a triplicidade dos signos da Terra. É também um dos quatro signos cardinais, juntamente com Áries, Câncer e Libra. Com pequenas variações nas datas dependendo do ano, os capricornianos são as pessoas nascidas entre 22 de dezembro e 20 de janeiro.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <periodo> 20 de Janeiro - 18 de Fevereiro </periodo>
+        <nomeSigno> Aquário </nomeSigno>
+        <descricao>Aquário (♒) é o décimo primeiro[2] signo astrológico do zodíaco, situado entre Capricórnio[2] e Peixes[2] e associado à constelação de Aquarius[2]. Seu símbolo é o aguadeiro. Forma com Gêmeos[1] e Libra[2] a triplicidade dos signos do Ar. É também um dos quatro signos fixos, juntamente com Touro, Leão e Escorpião. Com pequenas variações nas datas dependendo do ano, os aquarianos e aquarianas são as pessoas nascidas entre 21 de janeiro e 18 de fevereiro.
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <periodo> 19 de Fevereiro - 20 de Março	</periodo>
+        <nomeSigno> Peixes </nomeSigno>
+        <descricao>Peixes ou Piscis (♓️) é o décimo segundo, e último[2] signo astrológico do zodíaco, situado entre Aquário[2] e Áries[2] e associado à constelação de Pisces[2]. Seu símbolo são dois peixes. Forma com Câncer[1] e Escorpião[2] a triplicidade dos signos da Água. É também um dos quatro signos mutáveis, juntamente com Gêmeos, Virgem e Sagitário. Com pequenas variações nas datas dependendo do ano, os piscianos são as pessoas nascidas entre 19 de Fevereiro e 20 de Março.
+        </descricao>
+    </signo>
+    
+</signos>
